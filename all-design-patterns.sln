@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{D3C54A4B-636C-475C-8B59-8D556F87CDF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-01-Singleton", "DP1-Criacao-01-Singleton\DP1-Criacao-01-Singleton.csproj", "{D3C54A4B-636C-475C-8B59-8D556F87CDF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{5BFD1B64-0887-4849-95F1-9AA48E60EC57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-02-FactoryMethod", "DP1-Criacao-02-FactoryMethod\DP1-Criacao-02-FactoryMethod.csproj", "{5BFD1B64-0887-4849-95F1-9AA48E60EC57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
