@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-04-Builder", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-05-Prototype", "DP1-Criacao-05-Prototype\DP1-Criacao-05-Prototype.csproj", "{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP2-Estrutural-01-Adapter", "DP2-Estrutural-01-Adapter\DP2-Estrutural-01-Adapter.csproj", "{3F2EB0A4-2DB3-4316-AF76-F02A50DF127E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2EB0A4-2DB3-4316-AF76-F02A50DF127E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2EB0A4-2DB3-4316-AF76-F02A50DF127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2EB0A4-2DB3-4316-AF76-F02A50DF127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2EB0A4-2DB3-4316-AF76-F02A50DF127E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
