@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-02-FactoryMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-03-AbstractFactory", "DP1-Criacao-03-AbstractFactory\DP1-Criacao-03-AbstractFactory.csproj", "{E1F89125-DAC2-43E4-A915-D51D55E1714F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-04-Builder", "DP1-Criacao-04-Builder\DP1-Criacao-04-Builder.csproj", "{11AF2AAF-3E66-4C89-B0D1-1DE9FD3C1386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP1-Criacao-05-Prototype", "DP1-Criacao-05-Prototype\DP1-Criacao-05-Prototype.csproj", "{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{E1F89125-DAC2-43E4-A915-D51D55E1714F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1F89125-DAC2-43E4-A915-D51D55E1714F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1F89125-DAC2-43E4-A915-D51D55E1714F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AF2AAF-3E66-4C89-B0D1-1DE9FD3C1386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AF2AAF-3E66-4C89-B0D1-1DE9FD3C1386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AF2AAF-3E66-4C89-B0D1-1DE9FD3C1386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AF2AAF-3E66-4C89-B0D1-1DE9FD3C1386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B78A48E-A924-4EF9-9DE8-AFF7757B4996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
