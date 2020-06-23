@@ -18,7 +18,6 @@ namespace Singleton
                 Console.WriteLine("Pegou Instancia");
                 return _instacia;
             }
-
         }
 
         public void Mensagem(string msg)
