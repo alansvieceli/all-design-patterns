@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP2-Estrutural-04-Decorator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP2-Estrutural-05-Facade", "DP2-Estrutural-05-Facade\DP2-Estrutural-05-Facade.csproj", "{BEA5404F-9DB5-4E57-A32F-8C613D466777}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP2-Estrutural-06-Flyweight", "DP2-Estrutural-06-Flyweight\DP2-Estrutural-06-Flyweight.csproj", "{20BCA2BA-91A2-41A1-8AC0-ED807B3BE3E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP2-Estrutural-07-Proxy", "DP2-Estrutural-07-Proxy\DP2-Estrutural-07-Proxy.csproj", "{8500183F-D7D4-471F-85A1-76C923EAAD46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{BEA5404F-9DB5-4E57-A32F-8C613D466777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEA5404F-9DB5-4E57-A32F-8C613D466777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEA5404F-9DB5-4E57-A32F-8C613D466777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BCA2BA-91A2-41A1-8AC0-ED807B3BE3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BCA2BA-91A2-41A1-8AC0-ED807B3BE3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BCA2BA-91A2-41A1-8AC0-ED807B3BE3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BCA2BA-91A2-41A1-8AC0-ED807B3BE3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8500183F-D7D4-471F-85A1-76C923EAAD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8500183F-D7D4-471F-85A1-76C923EAAD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8500183F-D7D4-471F-85A1-76C923EAAD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8500183F-D7D4-471F-85A1-76C923EAAD46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
