@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP2-Estrutural-06-Flyweight
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP2-Estrutural-07-Proxy", "DP2-Estrutural-07-Proxy\DP2-Estrutural-07-Proxy.csproj", "{8500183F-D7D4-471F-85A1-76C923EAAD46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-01-ChainOfResponsibility", "DP3-Comportamental-01-ChainOfResponsibility\DP3-Comportamental-01-ChainOfResponsibility.csproj", "{CCCBED3B-F1D9-4E4A-8105-29BAD23F785E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-02-Command", "DP3-Comportamental-02-Command\DP3-Comportamental-02-Command.csproj", "{3DA29CCB-1D8C-4097-9134-9A270EA6F4BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{8500183F-D7D4-471F-85A1-76C923EAAD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8500183F-D7D4-471F-85A1-76C923EAAD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8500183F-D7D4-471F-85A1-76C923EAAD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCBED3B-F1D9-4E4A-8105-29BAD23F785E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCBED3B-F1D9-4E4A-8105-29BAD23F785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCBED3B-F1D9-4E4A-8105-29BAD23F785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCBED3B-F1D9-4E4A-8105-29BAD23F785E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA29CCB-1D8C-4097-9134-9A270EA6F4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA29CCB-1D8C-4097-9134-9A270EA6F4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA29CCB-1D8C-4097-9134-9A270EA6F4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA29CCB-1D8C-4097-9134-9A270EA6F4BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
