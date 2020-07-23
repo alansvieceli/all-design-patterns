@@ -30,6 +30,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-02-Comma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-03-Interpreter", "DP3-Comportamental-03-Interpreter\DP3-Comportamental-03-Interpreter.csproj", "{141B1B1C-D95D-4FE6-A554-6E8B80E2699A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-04-Interator", "DP3-Comportamental-04-Interator\DP3-Comportamental-04-Interator.csproj", "{5EC50645-B63B-4306-9F7D-10A78F45C6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-05-Mediator", "DP3-Comportamental-05-Mediator\DP3-Comportamental-05-Mediator.csproj", "{19EA7CAF-DB61-488E-8FDB-F3A9F00D30EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +100,13 @@ Global
 		{141B1B1C-D95D-4FE6-A554-6E8B80E2699A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{141B1B1C-D95D-4FE6-A554-6E8B80E2699A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{141B1B1C-D95D-4FE6-A554-6E8B80E2699A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC50645-B63B-4306-9F7D-10A78F45C6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC50645-B63B-4306-9F7D-10A78F45C6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC50645-B63B-4306-9F7D-10A78F45C6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC50645-B63B-4306-9F7D-10A78F45C6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EA7CAF-DB61-488E-8FDB-F3A9F00D30EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EA7CAF-DB61-488E-8FDB-F3A9F00D30EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EA7CAF-DB61-488E-8FDB-F3A9F00D30EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EA7CAF-DB61-488E-8FDB-F3A9F00D30EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
