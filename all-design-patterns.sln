@@ -40,6 +40,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-07-Obser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-08-State", "DP3-Comportamental-08-State\DP3-Comportamental-08-State.csproj", "{6CDE101E-97A4-4DC8-A8D5-915046531827}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-09-Strategy", "DP3-Comportamental-09-Strategy\DP3-Comportamental-09-Strategy.csproj", "{1BBB1EE8-2A89-4A55-B8BA-43F7546E0A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP3-Comportamental-10-TemplateMethod", "DP3-Comportamental-10-TemplateMethod\DP3-Comportamental-10-TemplateMethod.csproj", "{1636B0F3-2E3B-481D-817E-463D9D465F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp3-Comportamental-Visitor", "Dp3-Comportamental-Visitor\Dp3-Comportamental-Visitor.csproj", "{C16A815B-A225-4AD3-BE90-C692CDFD67A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +132,17 @@ Global
 		{6CDE101E-97A4-4DC8-A8D5-915046531827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CDE101E-97A4-4DC8-A8D5-915046531827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CDE101E-97A4-4DC8-A8D5-915046531827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBB1EE8-2A89-4A55-B8BA-43F7546E0A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBB1EE8-2A89-4A55-B8BA-43F7546E0A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBB1EE8-2A89-4A55-B8BA-43F7546E0A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBB1EE8-2A89-4A55-B8BA-43F7546E0A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1636B0F3-2E3B-481D-817E-463D9D465F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1636B0F3-2E3B-481D-817E-463D9D465F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1636B0F3-2E3B-481D-817E-463D9D465F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1636B0F3-2E3B-481D-817E-463D9D465F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16A815B-A225-4AD3-BE90-C692CDFD67A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16A815B-A225-4AD3-BE90-C692CDFD67A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16A815B-A225-4AD3-BE90-C692CDFD67A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16A815B-A225-4AD3-BE90-C692CDFD67A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
